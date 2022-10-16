@@ -1,4 +1,4 @@
-# Putting-Data-on-a-Map-Programming-Assignment-for-Module-1-
+# Putting-Data-on-a-Map-Programming-Assignment-for-Module-3-
 Object Oriented Programming in Java University of California San Diego Course from Coursera.
 
 Programming Assignment Instructions
